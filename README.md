@@ -1,10 +1,10 @@
 # Android Project 6 - *BitFit Part2*
 
-Submitted by: **Barsha Chaudhary**
+Submitted by: **Khloe Wright**
 
 **BitFit Part2** is a health metrics app that allows users to track sleep of the user.** 
 
-Time spent: **4.8** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2022] [Barsha Chaudhary]
+    Copyright [2024] [Khloe Wright]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
