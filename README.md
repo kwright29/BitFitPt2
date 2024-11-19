@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 GIF created with ...  
-![Kapture 2022-10-12 at 05 25 28](https://user-images.githubusercontent.com/64405568/195305527-6e9ec2ba-9224-43d4-880a-c2dda61ff19d.gif)
+
+https://imgur.com/a/lX9H0nd
 
 [Kap](https://getkap.co/) for macOS
 
